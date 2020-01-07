@@ -1,0 +1,31 @@
+body
+{
+    background: url(images/gym2.jpeg) 
+    no-repeat center fixed;
+    background-size: cover
+        
+}
+div
+{
+    background-color: #ff0000;
+    width: 45%;
+    text-align: center;
+    border-radius: 25px;
+    margin: 100px auto;
+    opacity: 0.8;
+}
+button
+{
+    background-color: orange;
+    border-radius: 15px;
+}
+h1
+{
+    font-family: 'Baloo Tammudu', cursive;
+    padding-left: 10px;
+    font-size: 3em;
+}
+p
+{
+    font-size: 2em;
+}
